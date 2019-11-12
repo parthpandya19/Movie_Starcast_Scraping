@@ -13,7 +13,7 @@ Scraping using Facebook, Twitter, Instagram API
               1) Reach of star cast
               2) Number of followers
               3) Reach of a post
-              4) Bets time to post
+              4) Best time to post
               5) Similar posts
               6) Trending posts
               7) Follow similar Stars
